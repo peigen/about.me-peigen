@@ -12,18 +12,18 @@
 
 # 个人信息
 
- * 李培跃（Peigen） 花名：培根 支付宝曾用名：李衮
- * 工作年限：12年
+ * 李培跃（Peigen） 花名：培根；支付宝曾用名：李衮
+ * 学历：大学肄业
+ * 工作年限：2004年5约参加工作
  * 博客：[peigen.info](http://peigen.info) & [lipeiyue.com](http://peigen.info)
  * Github：[peigen](http://github.com/peigen)
-
  * 期望职位：CEO
  * 期望薪资：年薪税后100W
  * 期望城市：非北京、上海
 
 ---
 
-# 工作经历
+# 主要工作经历
 
 ## 一、混迹西安（2004年5月~2008年10月）
 
